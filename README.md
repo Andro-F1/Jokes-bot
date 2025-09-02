@@ -1,2 +1,0 @@
-# Jokes-bot
-Tg bot
